@@ -88,7 +88,7 @@ async def start_comm(client, message: Message, _):
                     details = stats.get(vidid)
                     title = (details["title"][:35]).title()
                     if vidid == "telegram":
-                        msg += f"🔗[ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ](https://t.me/Red_Wine_Op) ** ᴩʟᴀʏᴇᴅ {count} ᴛɪᴍᴇs**\n\n"
+                        msg += f"🔗[ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ](https://t.me/Amazingdpzworld) ** ᴩʟᴀʏᴇᴅ {count} ᴛɪᴍᴇs**\n\n"
                     else:
                         msg += f"🔗 [{title}](https://www.youtube.com/watch?v={vidid}) ** played {count} times**\n\n"
                 msg = _["ustats_2"].format(tot, tota, limit) + msg
@@ -173,7 +173,7 @@ async def start_comm(client, message: Message, _):
                             text="✘ 𝙔𝙊𝙐𝙏𝙐𝘽𝙀 ✘", url=f"{link}"
                         ),
                         InlineKeyboardButton(
-                            text="✘ 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 ✘", url="https://t.me/Red_Wine_Op"
+                            text="✘ 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 ✘", url="https://t.me/Amazingdpzworld"
                         ),
                     ],
                 ]
