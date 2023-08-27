@@ -1,5 +1,5 @@
 {
-    "name": "⫷ 𝙅𝙚𝙨𝙨𝙮 𝙈𝙪𝙨𝙞𝙘 ⫸",
+    "name": "💐⃝♥️𝙎𝙪𝙕𝙪𝙈𝙚 ♡ 𝙈𝙪𝙨𝙞𝙘𝄟⃟🦋",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/56d1760224589ee370186.jpg",
     "keywords": [
@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "⫷ 𝙅𝙚𝙨𝙨𝙮 𝙈𝙪𝙨𝙞𝙘 ⫸",
+        "value": "💐⃝♥️𝙎𝙪𝙕𝙪𝙈𝙚 ♡ 𝙈𝙪𝙨𝙞𝙘𝄟⃟🦋",
         "required": true
       },
       "OWNER_ID": {
