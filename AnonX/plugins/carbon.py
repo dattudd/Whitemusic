@@ -25,4 +25,4 @@ async def carbon_func(_, message):
     await m.edit("ᴜᴩʟᴏᴀᴅɪɴɢ ɢᴇɴᴇʀᴀᴛᴇᴅ ᴄᴀʀʙᴏɴ...")
     await app.send_photo(message.chat.id, carbon)
     await m.delete()
-    carbon.close(
+    carbon.close()
