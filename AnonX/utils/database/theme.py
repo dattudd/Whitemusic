@@ -26,4 +26,4 @@ async def save_theme(chat_id: int, name: str, note: dict):
     _notes[name] = note
     await themedb.update_one(
         {"chat_id": chat_id}, {"$set": {"notes": _notes}}, upsert=True
-    
+    )
