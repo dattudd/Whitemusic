@@ -25,8 +25,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Noobxcoders/IG_Music
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BewafaBeats")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Amazingdpzworld")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/its_dev_telegram")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/its_dev_telegram")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
