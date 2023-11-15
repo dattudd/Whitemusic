@@ -12,6 +12,8 @@ from youtubesearchpython.__future__ import VideosSearch
 
 from config import YOUTUBE_IMG_URL
 from AnonX import app
+from AnonX.assets import thumbs, colors
+
 
 
 def changeImageSize(maxWidth, maxHeight, image):
